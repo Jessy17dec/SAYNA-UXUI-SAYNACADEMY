@@ -1,2 +1,2 @@
 # SAYNA-UXUI-SAYNACADEMY
-https://www.figma.com/file/00PE2xfmj6cN8o2cAPcYyn/SAYNA-UXUI-SAYNACADEMY?type=whiteboard&node-id=0%3A1&t=SbI0fQZM0G4TIYqK-1 
+Bonjour Voici le lien vers mon Figma : https://www.figma.com/file/lJpoGfvxA7TI1J6W5EvTVR/SAYNA-UXUI-SAYNACADEMY?type=design&node-id=0%3A1&mode=design&t=VOX5G3LHTILd5emB-1 
